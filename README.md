@@ -66,6 +66,10 @@ Please refer to [Capstone_Project.ipynb](https://github.com/akshayrf123/capstone
 #### Conceptual Data Model
 Since the purpose of this data warehouse is for OLAP and BI app usage, we will model these data sets with star schema data modeling.
 
+* Star Schema
+
+	![alt text](https://github.com/akshayrf123/capstoneproject/blob/main/images/conceptual_data_model.png)
+
 #### Data Pipeline Build Up Steps
 
 1. Assume all data sets are stored in S3 buckets as below
@@ -101,7 +105,7 @@ Please refer to [Data_Quality_Check.ipynb](https://github.com/akshayrf123/capsto
 
 #### 4.3 Data dictionary 
 
-![alt text]()
+![alt text](https://github.com/akshayrf123/capstoneproject/blob/main/images/data_dictionary.png)
 
 ---
 
